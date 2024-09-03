@@ -1,0 +1,343 @@
+.bandeira{
+    width: 600px;
+    height: 420px;
+    border: 1px solid black;
+    display: block;
+    margin: 10px;
+}
+.col3{
+    width: 200px;
+    height: 420px;
+    display: block;
+    float: left;
+}
+.corAzulForte{
+    background-color: blue;
+}
+.corBranco{
+    background-color: white;
+}
+.corVermelho{
+    background-color: red;
+}
+.corVerde{
+    background-color: green;
+}
+.lin3{
+    width: 600px;
+    height: 140px;
+    display: block;
+    float: left;
+}
+.corPreto{
+    background-color: black;
+}
+.corAmarelo{
+    background-color: yellow;
+}
+.corLaranja{
+    background-color: orangered;
+}
+.bolaJapao{
+    width: 250px;
+    height: 250px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    margin-left: 175px;
+    margin-top: 85px;
+}
+.bolaBangladesh{
+    width: 250px;
+    height: 250px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    margin-left: 140px;
+    margin-top: 85px;
+}
+.corAzulClaro{
+    background-color: rgb(31, 163, 220);
+}
+.lisHor{
+    width: 600px;
+    height: 100px;
+    display: block;
+    position: relative;
+    top: 150px;
+}
+.lisVer{
+    width: 100px;
+    height: 420px;
+    display: block;
+    position: relative;
+    top: -100px;
+    left: 100px;
+}
+.bandeiraBranca{
+    width: 600px;
+    height: 420px;
+    background-color: white;
+    border: 1px solid black;
+    margin: 10px;
+
+}
+.bandeiraAzulClara{
+    width: 600px;
+    height: 420px;
+    background-color: rgb(47, 150, 240);
+    border: 1px solid black;
+    margin: 10px;
+
+}
+.corVerdeClaro{
+    background-color: rgb(41, 190, 41);
+}
+.bolaNiger{
+    width: 120px;
+    height: 120px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    margin-left: 230px;
+    margin-top: 10px;
+    z-index: 30;
+}
+.bandeiraVermelha{
+    width: 600px;
+    height: 420px;
+    border: 1px solid black;
+    background-color: red;
+    margin: 10px;
+}
+.metade1{
+    width: 600px;
+    height: 220px;
+    display: block;
+}
+.bandeiraAmarela{
+    background-color: yellow;
+    width: 600px;
+    height: 420px;
+    display: block;
+    border: 1px solid black;
+    margin: 10px;
+}
+.bandeiraQuadrada{
+    width: 420px;
+    height: 420px;
+    background-color: red;
+    display: block;
+    border: 1px solid black;
+    margin: 10px;
+}
+.lisHorSuica{
+    width: 300px;
+    height: 100px;
+    display: block;
+    position: relative;
+    top: 155px;
+    left: 55px;
+}
+.lisVerSuica{
+    width: 100px;
+    height: 300px;
+    display: block;
+    position: relative;
+    top: -50px;
+    left: 155px;
+}
+.lisHorNoruegua{
+    width: 600px;
+    height: 80px;
+    display: block;
+    position: relative;
+    top: 150px;
+    border-top: 20px solid white;
+    border-bottom: 20px solid white;
+}
+.lisVerNoruegua{
+    width: 80px;
+    height: 420px;
+    display: block;
+    position: relative;
+    top: -120px;
+    left: 100px;
+    border-left: 20px solid white;
+    border-right: 20px solid white;
+}
+.lisHorSobre{
+    width: 600px;
+    height: 80px;
+    display: block;
+    position: relative;
+    top: 170px;
+    left: -120px;
+}
+.lisHorFeroe{
+    width: 600px;
+    height: 80px;
+    display: block;
+    position: relative;
+    top: 150px;
+    border-top: 20px solid blue;
+    border-bottom: 20px solid blue;
+}
+.lisVerFeroe{
+    width: 80px;
+    height: 420px;
+    display: block;
+    position: relative;
+    top: -120px;
+    left: 100px;
+    border-left: 20px solid blue;
+    border-right: 20px solid blue;
+}
+.lisHorAland{
+    width: 600px;
+    height: 80px;
+    display: block;
+    position: relative;
+    top: 150px;
+    border-top: 20px solid yellow;
+    border-bottom: 20px solid yellow
+}
+.lisVerAland{
+    width: 80px;
+    height: 420px;
+    display: block;
+    position: relative;
+    top: -120px;
+    left: 100px;
+    border-left: 20px solid yellow;
+    border-right: 20px solid yellow;
+}
+.bandeiraAzul{
+    background-color: blue;
+    width: 600px;
+    height: 420px;
+    display: block;
+    border: 1px solid black;
+    margin: 10px;
+}
+#lisVerInglaterra{
+    width: 100px;
+    height: 420px;
+    display: block;
+    position: relative;
+    top: -100px;
+    left: 230px;
+}
+.linBorda{
+    width: 600px;
+    height: 130px;
+    display: block;
+    float: left;
+    border-top: 10px solid white;
+    border-bottom: 10px solid white;
+}
+.lin105{
+    width: 600px;
+    height: 105px;
+    display: block;
+    float: left;
+}
+.trianguloPalestina{
+   width: 0;
+   height: 0;
+   top: 0;
+   left: 0;
+   border-top: 210px solid transparent;
+   border-bottom: 210px solid transparent;
+   border-left: 300px solid red;
+   position: relative;
+}
+.trianguloGuine{
+    width: 0;
+    height: 0;
+    top: 0;
+    left: 0;
+    border-top: 210px solid transparent;
+    border-bottom: 210px solid transparent;
+    border-left: 200px solid rgb(0, 149, 255);
+    position: relative;
+ }
+ .bandeiraPreta{
+    background-color: rgb(0, 0, 0);
+    width: 600px;
+    height: 420px;
+    display: block;
+    border: 1px solid black;
+    margin: 10px;
+}
+.trianguloSudao{
+    width: 0;
+    height: 0;
+    top: 0;
+    left: 0;
+    border-top: 210px solid transparent;
+    border-bottom: 210px solid transparent;
+    border-left: 300px solid green;
+    position: relative;
+ }
+ .quadradoVerde{
+    background-color: green;
+    width: 500px;
+    height: 300px;
+    display: block;
+    position: relative;
+    top: 60px;
+    left: 50px;
+ }
+ .luaMaldivas1{
+    width: 200px;
+    height: 200px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    margin-left: 140px;
+    margin-top: 50px;
+}
+.luaMaldivas2{
+    width: 200px;
+    height: 200px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    margin-left: 40px;
+    margin-top: 0px;
+}
+.lateral1terco{
+    width: 200px;
+    height: 420px;
+    display: block;
+    float: left;
+}
+.linha1terco{
+    width: 400px;
+    height: 210px;
+    display: block;
+    float: left;
+}
+.retangulocanto{
+    width: 280px;
+    height: 180px;
+    display: block;
+    float: left;
+}
+.lisHorTongo{
+    width: 100px;
+    height: 35px;
+    display: block;
+    position: relative;
+    top: -30px;
+    left: 90px;
+}
+.lisVerTongo{
+    width: 35px;
+    height: 100px;
+    display: block;
+    position: relative;
+    top: 40px;
+    left: 120px;
+}
